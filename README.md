@@ -1,6 +1,6 @@
 # 朱颜血
 
-> [在线阅读](https://rxliuli.gitbook.io/zhuyanxue/), [GitHub](https://github.com/rxliuli/ZhuYanXue)
+> [在线阅读](https://zhuyanxue.liuli.moe/), [GitHub](https://github.com/rxliuli/ZhuYanXue)
 
 ## 简介
 
