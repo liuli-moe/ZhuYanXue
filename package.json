@@ -7,6 +7,8 @@
   "license": "MIT",
   "scripts": {
     "serve": "gitbook serve",
+    "build": "gitbook build . book",
+    "build:epub": "gitbook epub . book/ZhuYanXue.epub",
     "pub": "gitbook build . book && gh-pages -d book && rimraf book"
   },
   "devDependencies": {
