@@ -1,0 +1,17 @@
+{
+  "name": "ZhuYanXue",
+  "version": "1.0.0",
+  "description": "朱颜血的小说仓库",
+  "repository": "git@github.com:rxliuli/ZhuYanXue.git",
+  "author": "浮萍居主等",
+  "license": "MIT",
+  "scripts": {
+    "serve": "gitbook serve",
+    "pub": "gitbook build . book && gh-pages -d book && rimraf book"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "gitbook-cli": "^2.3.2",
+    "rimraf": "^2.6.3"
+  }
+}
