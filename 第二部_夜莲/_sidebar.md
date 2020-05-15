@@ -1,5 +1,0 @@
-- [第一幕](/第二部_夜莲/di-er-bu-ye-lian-di-yi-mu.md)
-- [第二幕](/第二部_夜莲/di-er-bu-ye-lian-di-er-mu.md)
-- [第三幕](/第二部_夜莲/di-er-bu-ye-lian-di-san-mu.md)
-- [第四幕](/第二部_夜莲/di-er-bu-ye-lian-di-si-mu.md)
-- [终结篇](/第二部_夜莲/di-er-bu-ye-lian-zhong-jie-pian.md)
