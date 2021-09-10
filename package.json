@@ -1,0 +1,17 @@
+{
+  "name": "ZhuYanXue",
+  "version": "1.0.0",
+  "repository": "git@github.com:liuli-moe/ZhuYanXue.git",
+  "author": "rxliuli <rxliuli@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:deploy": "yarn run docs:build && gh-pages -d docs/.vuepress/dist -a"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-search": "^2.0.0-beta.25",
+    "gh-pages": "^3.1.0",
+    "vuepress-vite": "^2.0.0-beta.6"
+  }
+}
