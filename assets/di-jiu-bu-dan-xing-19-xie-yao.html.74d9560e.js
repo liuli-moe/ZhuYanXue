@@ -1,0 +1,1 @@
+const i={key:"v-320b161e",path:"/09/di-jiu-bu-dan-xing-19-xie-yao.html",title:"第九部 丹杏 19 泻药",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"09/di-jiu-bu-dan-xing-19-xie-yao.md",git:{updatedTime:1631270025e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:1}]}};export{i as data};

@@ -1,0 +1,1 @@
+const i={key:"v-0da9bf7e",path:"/04/di-si-bu-hong-mian-di-shi-zhang.html",title:"第四部 红棉 第十章",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"04/di-si-bu-hong-mian-di-shi-zhang.md",git:{updatedTime:1631270025e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:1}]}};export{i as data};

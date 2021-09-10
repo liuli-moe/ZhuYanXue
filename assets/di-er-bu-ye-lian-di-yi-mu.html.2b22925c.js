@@ -1,0 +1,1 @@
+const e={key:"v-10543aa8",path:"/02/di-er-bu-ye-lian-di-yi-mu.html",title:"第二部 夜莲 第一幕",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"02/di-er-bu-ye-lian-di-yi-mu.md",git:{updatedTime:1631270025e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:1}]}};export{e as data};

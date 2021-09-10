@@ -1,0 +1,1 @@
+const e={key:"v-5e9e1306",path:"/06/di-liu-bu-cang-lan-y.html",title:"第六部 苍兰 Y…",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"06/di-liu-bu-cang-lan-y.md",git:{updatedTime:1631270025e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:1}]}};export{e as data};

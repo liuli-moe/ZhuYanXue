@@ -1,0 +1,1 @@
+import{o as a,c as r,F as e,a as n,d as s}from"./app.cc56aa6f.js";const d={},t=n("h1",{id:"第十一部-清菊",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#第十一部-清菊","aria-hidden":"true"},"#"),s(" 第十一部 清菊")],-1),c=n("p",null,"该部作品尚未完结，待完结时再行收录以便打印",-1);d.render=function(n,s){return a(),r(e,null,[t,c],64)};export{d as default};
