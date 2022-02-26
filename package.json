@@ -5,13 +5,22 @@
   "author": "rxliuli <rxliuli@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "docs:deploy": "yarn run docs:build && gh-pages -d docs/.vuepress/dist"
+    "build": "esno build.ts",
+    "docs-dev": "vuepress dev docs",
+    "docs-build": "vuepress build docs",
+    "docs-deploy": "pnpm docs-build && liuli-cli deploy"
+  },
+  "deploy": {
+    "type": "gh-pages",
+    "dest": "docs/.vuepress/dist",
+    "remote": "/"
   },
   "devDependencies": {
-    "@vuepress/plugin-search": "^2.0.0-beta.25",
-    "gh-pages": "^3.1.0",
-    "vuepress-vite": "^2.0.0-beta.6"
+    "@liuli-util/async": "^3.3.0",
+    "@liuli-util/cli": "^3.19.0",
+    "@liuli-util/mdbook": "^0.1.1",
+    "@types/node": "^17.0.21",
+    "@vuepress/plugin-search": "^2.0.0-beta.35",
+    "vuepress-vite": "^2.0.0-beta.35"
   }
 }

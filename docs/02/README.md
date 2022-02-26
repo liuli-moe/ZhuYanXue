@@ -1,8 +1,14 @@
-# 第二部 夜莲
-
-封面人物：夜莲
-
-本部简介：
+---
+title: 夜莲
+author: 浮萍居主
+language: zh-CN
+sections:
+  - di-er-bu-ye-lian-di-yi-mu.md
+  - di-er-bu-ye-lian-di-er-mu.md
+  - di-er-bu-ye-lian-di-san-mu.md
+  - di-er-bu-ye-lian-di-si-mu.md
+  - di-er-bu-ye-lian-zhong-jie-pian.md
+---
 
 夜莲不懂，为什么幸福美满的生活一夕变天。
 
@@ -13,4 +19,3 @@
 夫死、怀中胎儿流坠，连儿女们也随她而堕落罪恶深渊。是天命？是天意？……
 
 第二滴朱颜血泪，终将堕落！
-

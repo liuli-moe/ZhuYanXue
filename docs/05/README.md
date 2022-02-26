@@ -1,8 +1,133 @@
-# 第五部 紫玫
-
-封面人物：紫玫
-
-本部简介：
+---
+title: 紫玫
+author: 紫狂
+language: zh-CN
+sections:
+  - di-wu-bu-zi-mei-00.md
+  - di-wu-bu-zi-mei-01.md
+  - di-wu-bu-zi-mei-02.md
+  - di-wu-bu-zi-mei-03.md
+  - di-wu-bu-zi-mei-04.md
+  - di-wu-bu-zi-mei-05.md
+  - di-wu-bu-zi-mei-06.md
+  - di-wu-bu-zi-mei-07.md
+  - di-wu-bu-zi-mei-08.md
+  - di-wu-bu-zi-mei-09.md
+  - di-wu-bu-zi-mei-10.md
+  - di-wu-bu-zi-mei-11.md
+  - di-wu-bu-zi-mei-12.md
+  - di-wu-bu-zi-mei-13.md
+  - di-wu-bu-zi-mei-14.md
+  - di-wu-bu-zi-mei-15.md
+  - di-wu-bu-zi-mei-16.md
+  - di-wu-bu-zi-mei-17.md
+  - di-wu-bu-zi-mei-18.md
+  - di-wu-bu-zi-mei-19.md
+  - di-wu-bu-zi-mei-20.md
+  - di-wu-bu-zi-mei-21.md
+  - di-wu-bu-zi-mei-22.md
+  - di-wu-bu-zi-mei-23.md
+  - di-wu-bu-zi-mei-24.md
+  - di-wu-bu-zi-mei-25.md
+  - di-wu-bu-zi-mei-26.md
+  - di-wu-bu-zi-mei-27.md
+  - di-wu-bu-zi-mei-28.md
+  - di-wu-bu-zi-mei-29.md
+  - di-wu-bu-zi-mei-30.md
+  - di-wu-bu-zi-mei-31.md
+  - di-wu-bu-zi-mei-32.md
+  - di-wu-bu-zi-mei-33.md
+  - di-wu-bu-zi-mei-34.md
+  - di-wu-bu-zi-mei-35.md
+  - di-wu-bu-zi-mei-36.md
+  - di-wu-bu-zi-mei-37.md
+  - di-wu-bu-zi-mei-38.md
+  - di-wu-bu-zi-mei-39.md
+  - di-wu-bu-zi-mei-40.md
+  - di-wu-bu-zi-mei-41.md
+  - di-wu-bu-zi-mei-42.md
+  - di-wu-bu-zi-mei-43.md
+  - di-wu-bu-zi-mei-44.md
+  - di-wu-bu-zi-mei-45.md
+  - di-wu-bu-zi-mei-46.md
+  - di-wu-bu-zi-mei-47.md
+  - di-wu-bu-zi-mei-48.md
+  - di-wu-bu-zi-mei-49.md
+  - di-wu-bu-zi-mei-50.md
+  - di-wu-bu-zi-mei-51.md
+  - di-wu-bu-zi-mei-52.md
+  - di-wu-bu-zi-mei-53.md
+  - di-wu-bu-zi-mei-54.md
+  - di-wu-bu-zi-mei-55.md
+  - di-wu-bu-zi-mei-56.md
+  - di-wu-bu-zi-mei-57.md
+  - di-wu-bu-zi-mei-58.md
+  - di-wu-bu-zi-mei-59.md
+  - di-wu-bu-zi-mei-60.md
+  - di-wu-bu-zi-mei-61.md
+  - di-wu-bu-zi-mei-62.md
+  - di-wu-bu-zi-mei-63.md
+  - di-wu-bu-zi-mei-64.md
+  - di-wu-bu-zi-mei-65.md
+  - di-wu-bu-zi-mei-66.md
+  - di-wu-bu-zi-mei-67.md
+  - di-wu-bu-zi-mei-68.md
+  - di-wu-bu-zi-mei-69.md
+  - di-wu-bu-zi-mei-70.md
+  - di-wu-bu-zi-mei-71.md
+  - di-wu-bu-zi-mei-72.md
+  - di-wu-bu-zi-mei-73.md
+  - di-wu-bu-zi-mei-74.md
+  - di-wu-bu-zi-mei-75.md
+  - di-wu-bu-zi-mei-76.md
+  - di-wu-bu-zi-mei-77.md
+  - di-wu-bu-zi-mei-78.md
+  - di-wu-bu-zi-mei-79.md
+  - di-wu-bu-zi-mei-80.md
+  - di-wu-bu-zi-mei-81.md
+  - di-wu-bu-zi-mei-82.md
+  - di-wu-bu-zi-mei-83.md
+  - di-wu-bu-zi-mei-84.md
+  - di-wu-bu-zi-mei-85.md
+  - di-wu-bu-zi-mei-86.md
+  - di-wu-bu-zi-mei-87.md
+  - di-wu-bu-zi-mei-88.md
+  - di-wu-bu-zi-mei-89.md
+  - di-wu-bu-zi-mei-90.md
+  - di-wu-bu-zi-mei-91.md
+  - di-wu-bu-zi-mei-92.md
+  - di-wu-bu-zi-mei-93.md
+  - di-wu-bu-zi-mei-94.md
+  - di-wu-bu-zi-mei-95.md
+  - di-wu-bu-zi-mei-96.md
+  - di-wu-bu-zi-mei-97.md
+  - di-wu-bu-zi-mei-98.md
+  - di-wu-bu-zi-mei-99.md
+  - di-wu-bu-zi-mei-100.md
+  - di-wu-bu-zi-mei-101.md
+  - di-wu-bu-zi-mei-102.md
+  - di-wu-bu-zi-mei-103.md
+  - di-wu-bu-zi-mei-104.md
+  - di-wu-bu-zi-mei-105.md
+  - di-wu-bu-zi-mei-106.md
+  - di-wu-bu-zi-mei-107.md
+  - di-wu-bu-zi-mei-108.md
+  - di-wu-bu-zi-mei-109.md
+  - di-wu-bu-zi-mei-110.md
+  - di-wu-bu-zi-mei-111.md
+  - di-wu-bu-zi-mei-112.md
+  - di-wu-bu-zi-mei-113.md
+  - di-wu-bu-zi-mei-114.md
+  - di-wu-bu-zi-mei-115.md
+  - di-wu-bu-zi-mei-116.md
+  - di-wu-bu-zi-mei-117.md
+  - di-wu-bu-zi-mei-118.md
+  - di-wu-bu-zi-mei-119.md
+  - di-wu-bu-zi-mei-120.md
+  - di-wu-bu-zi-mei-121.md
+  - di-wu-bu-zi-mei-122.md
+  - di-wu-bu-zi-mei-123.md
+---
 
 子夜，山林荒无人迹。
 
@@ -13,4 +138,3 @@
 ……
 
 朱颜血第五颗红泪，于焉坠落！
-

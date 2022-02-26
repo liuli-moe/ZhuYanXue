@@ -444,7 +444,6 @@ module.exports = {
         '/10/di-shi-bu-bai-he-di-san-shi-liu-zhang.md',
         '/10/di-shi-bu-bai-he-zui-zhong-hui.md',
       ],
-      '/11/': ['/11/README.md'],
     },
   },
   plugins: [
