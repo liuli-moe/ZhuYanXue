@@ -1,0 +1,1 @@
+const i={key:"v-005908ec",path:"/09/di-jiu-bu-dan-xing-32-huai-rou.html",title:"32 \u6000\u67D4",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"09/di-jiu-bu-dan-xing-32-huai-rou.md"};export{i as data};

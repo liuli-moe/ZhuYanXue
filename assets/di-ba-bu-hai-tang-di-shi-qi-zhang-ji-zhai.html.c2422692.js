@@ -1,0 +1,1 @@
+const i={key:"v-b5f5bd64",path:"/08/di-ba-bu-hai-tang-di-shi-qi-zhang-ji-zhai.html",title:"\u7B2C\u5341\u4E03\u7AE0 \u5993\u5BE8",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"08/di-ba-bu-hai-tang-di-shi-qi-zhang-ji-zhai.md"};export{i as data};

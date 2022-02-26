@@ -1,0 +1,1 @@
+const i={key:"v-1d106eb0",path:"/03/di-san-bu-fu-rong-di-jiu-zhang-qi-yi-yao-fang.html",title:"\u7B2C\u4E5D\u7AE0 \u5947\u5F02\u836F\u65B9",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"03/di-san-bu-fu-rong-di-jiu-zhang-qi-yi-yao-fang.md"};export{i as data};

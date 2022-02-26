@@ -1,0 +1,1 @@
+const i={key:"v-4fa89606",path:"/08/di-ba-bu-hai-tang-di-ling-zhang-xie-zi.html",title:"\u7B2C\u96F6\u7AE0 \u6954\u5B50",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"08/di-ba-bu-hai-tang-di-ling-zhang-xie-zi.md"};export{i as data};

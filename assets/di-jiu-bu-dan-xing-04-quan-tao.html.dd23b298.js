@@ -1,0 +1,1 @@
+const t={key:"v-17cd2f09",path:"/09/di-jiu-bu-dan-xing-04-quan-tao.html",title:"04 \u5708\u5957",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"09/di-jiu-bu-dan-xing-04-quan-tao.md"};export{t as data};

@@ -1,0 +1,1 @@
+const i={key:"v-43eb4868",path:"/10/di-shi-bu-bai-he-zui-zhong-hui.html",title:"\u6700\u7EC8\u56DE",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"10/di-shi-bu-bai-he-zui-zhong-hui.md"};export{i as data};

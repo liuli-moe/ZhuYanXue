@@ -1,0 +1,1 @@
+const a={key:"v-74c1725a",path:"/08/di-ba-bu-hai-tang-di-er-shi-si-zhang-hai-tang.html",title:"\u7B2C\u4E8C\u5341\u56DB\u7AE0 \u6D77\u68E0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"08/di-ba-bu-hai-tang-di-er-shi-si-zhang-hai-tang.md"};export{a as data};

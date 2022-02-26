@@ -1,0 +1,1 @@
+const i={key:"v-3e09e966",path:"/10/di-shi-bu-bai-he-di-er-shi-ba-zhang.html",title:"\u7B2C\u4E8C\u5341\u516B\u7AE0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"10/di-shi-bu-bai-he-di-er-shi-ba-zhang.md"};export{i as data};

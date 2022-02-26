@@ -1,0 +1,1 @@
+const a={key:"v-460e1f8c",path:"/03/di-san-bu-fu-rong-zhong-zhang-mo-ba-tian-xia.html",title:"\u7EC8\u7AE0 \u9B54\u9738\u5929\u4E0B",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"03/di-san-bu-fu-rong-zhong-zhang-mo-ba-tian-xia.md"};export{a as data};

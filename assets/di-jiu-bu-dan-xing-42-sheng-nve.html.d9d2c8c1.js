@@ -1,0 +1,1 @@
+const e={key:"v-743eddb0",path:"/09/di-jiu-bu-dan-xing-42-sheng-nve.html",title:"42 \u7EF3\u8650",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"09/di-jiu-bu-dan-xing-42-sheng-nve.md"};export{e as data};

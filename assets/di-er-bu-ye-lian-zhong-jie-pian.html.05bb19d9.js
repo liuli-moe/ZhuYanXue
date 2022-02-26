@@ -1,0 +1,1 @@
+const e={key:"v-2e427089",path:"/02/di-er-bu-ye-lian-zhong-jie-pian.html",title:"\u7EC8\u7ED3\u7BC7",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"02/di-er-bu-ye-lian-zhong-jie-pian.md"};export{e as data};

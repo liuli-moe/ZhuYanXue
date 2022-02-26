@@ -1,0 +1,1 @@
+const a={key:"v-a038f39a",path:"/08/di-ba-bu-hai-tang-di-er-zhang-chu-jian.html",title:"\u7B2C\u4E8C\u7AE0 \u521D\u89C1",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"08/di-ba-bu-hai-tang-di-er-zhang-chu-jian.md"};export{a as data};

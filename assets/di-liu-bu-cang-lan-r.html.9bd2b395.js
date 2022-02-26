@@ -1,0 +1,1 @@
+const t={key:"v-7681ebb8",path:"/06/di-liu-bu-cang-lan-r.html",title:"R\u2026",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"06/di-liu-bu-cang-lan-r.md"};export{t as data};

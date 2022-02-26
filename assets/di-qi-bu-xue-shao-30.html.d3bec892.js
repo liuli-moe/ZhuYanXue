@@ -1,0 +1,1 @@
+const e={key:"v-0a105175",path:"/07/di-qi-bu-xue-shao-30.html",title:"30",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"07/di-qi-bu-xue-shao-30.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-ca626362",path:"/09/di-jiu-bu-dan-xing-56-tuo-shen.html",title:"56 \u8131\u8EAB",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"09/di-jiu-bu-dan-xing-56-tuo-shen.md"};export{t as data};

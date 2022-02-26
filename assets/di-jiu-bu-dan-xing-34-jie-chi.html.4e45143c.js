@@ -1,0 +1,1 @@
+const i={key:"v-4059fe09",path:"/09/di-jiu-bu-dan-xing-34-jie-chi.html",title:"34 \u52AB\u6301",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"09/di-jiu-bu-dan-xing-34-jie-chi.md"};export{i as data};

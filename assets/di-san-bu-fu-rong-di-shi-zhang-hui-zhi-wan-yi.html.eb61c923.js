@@ -1,0 +1,1 @@
+const i={key:"v-5633032c",path:"/03/di-san-bu-fu-rong-di-shi-zhang-hui-zhi-wan-yi.html",title:"\u7B2C\u5341\u7AE0 \u6094\u4E4B\u665A\u77E3",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"03/di-san-bu-fu-rong-di-shi-zhang-hui-zhi-wan-yi.md"};export{i as data};

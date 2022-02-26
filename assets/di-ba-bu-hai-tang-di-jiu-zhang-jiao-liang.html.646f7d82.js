@@ -1,0 +1,1 @@
+const i={key:"v-d15f2f40",path:"/08/di-ba-bu-hai-tang-di-jiu-zhang-jiao-liang.html",title:"\u7B2C\u4E5D\u7AE0 \u8F83\u91CF",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"08/di-ba-bu-hai-tang-di-jiu-zhang-jiao-liang.md"};export{i as data};
