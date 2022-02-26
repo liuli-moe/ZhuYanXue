@@ -12,8 +12,8 @@
   },
   "deploy": {
     "type": "gh-pages",
-    "dest": "docs/.vuepress/dist",
-    "remote": "/"
+    "dist": "docs/.vuepress/dist",
+    "dest": "/"
   },
   "devDependencies": {
     "@liuli-util/async": "^3.3.0",
