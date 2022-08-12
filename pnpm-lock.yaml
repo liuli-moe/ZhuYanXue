@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@liuli-util/async': ^3.3.0
   '@liuli-util/cli': ^3.19.0
-  '@liuli-util/mdbook': ^0.2.2
+  '@liuli-util/mdbook': ^0.2.3
   '@types/node': ^17.0.21
   '@vuepress/plugin-search': ^2.0.0-beta.35
   fast-glob: ^3.2.11
@@ -16,7 +16,7 @@ dependencies:
 devDependencies:
   '@liuli-util/async': 3.3.0
   '@liuli-util/cli': 3.19.0
-  '@liuli-util/mdbook': 0.2.2
+  '@liuli-util/mdbook': 0.2.3
   '@types/node': 17.0.21
   '@vuepress/plugin-search': 2.0.0-beta.35
   jszip: 3.10.1
@@ -239,8 +239,8 @@ packages:
       mime-types: 2.1.35
     dev: true
 
-  /@liuli-util/mdbook/0.2.2:
-    resolution: {integrity: sha512-lx0XhUCb2tCICApPJTsXjUNtyPylmht8yZ+8e6cerWPGL/eGsPNP4gXmIgsMsr1+PvWO5sDBlKHO/ss7jJ7RJw==}
+  /@liuli-util/mdbook/0.2.3:
+    resolution: {integrity: sha512-mexApDIdYnnsQfszNnlbjHbh1vEFVgzijEOGAMFeBBx5PBD1ypJsShfReaLO3/bvGX7lDJK+kpY8RGTe3dJhpw==}
     hasBin: true
     dependencies:
       '@liuli-util/async': 3.4.0
@@ -2338,7 +2338,7 @@ packages:
     dependencies:
       universalify: 2.0.0
     optionalDependencies:
-      graceful-fs: 4.2.9
+      graceful-fs: 4.2.10
     dev: true
 
   /jszip/3.10.1:

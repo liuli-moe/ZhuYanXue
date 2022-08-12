@@ -7,15 +7,15 @@ import JSZip from 'jszip'
 import { readFile, writeFile } from 'fs/promises'
 import FastGlob from 'fast-glob'
 
+const distPath = path.resolve(__dirname, './dist')
+
 async function clean() {
-  const distPath = path.resolve(__dirname, '../dist')
   await remove(distPath)
   await mkdirp(distPath)
 }
 
 async function bundle() {
   console.log('打包 zip 文件')
-  const distPath = path.resolve(__dirname, '../dist')
   const list = await FastGlob('*.epub', { cwd: distPath })
   const zip = new JSZip()
   await AsyncArray.forEach(list, async (name) => {
@@ -39,7 +39,6 @@ async function build() {
     },
   )
   const builder = new MarkdownBookBuilder()
-  const distPath = path.resolve(__dirname, '../dist')
   for (const name of list) {
     console.log(`构建 [${name}]`)
     const entryPoint = path.resolve(booksPath, name, 'README.md')
