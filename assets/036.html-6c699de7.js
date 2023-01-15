@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1d74e6d3","path":"/09/036.html","title":"36 暗算","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/036.md"}');export{t as data};

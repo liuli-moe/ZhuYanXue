@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f54b8bd8","path":"/08/003.html","title":"第三章 绑票","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/003.md"}');export{t as data};

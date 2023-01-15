@@ -1,1 +1,0 @@
-const e={key:"v-8daa1a0e",path:"/",title:"朱颜血",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"简介",slug:"简介",children:[]},{level:2,title:"作者",slug:"作者",children:[]}],filePathRelative:"README.md",git:{updatedTime:1631270025e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:1}]}};export{e as data};

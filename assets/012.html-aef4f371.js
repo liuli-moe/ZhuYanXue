@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8ee8c694","path":"/08/012.html","title":"第十二章 长夜","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/012.md"}');export{t as data};

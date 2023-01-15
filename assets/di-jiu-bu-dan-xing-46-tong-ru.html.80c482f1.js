@@ -1,1 +1,0 @@
-const t={key:"v-db6679ee",path:"/09/di-jiu-bu-dan-xing-46-tong-ru.html",title:"46 \u901A\u4E73",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"09/di-jiu-bu-dan-xing-46-tong-ru.md"};export{t as data};

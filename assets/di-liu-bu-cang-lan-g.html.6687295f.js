@@ -1,1 +1,0 @@
-const t={key:"v-9c0c8962",path:"/06/di-liu-bu-cang-lan-g.html",title:"G\u2026",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"06/di-liu-bu-cang-lan-g.md"};export{t as data};

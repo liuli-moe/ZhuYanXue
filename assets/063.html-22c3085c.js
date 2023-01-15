@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-91ede28e","path":"/09/063.html","title":"63 官妓","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/063.md"}');export{e as data};

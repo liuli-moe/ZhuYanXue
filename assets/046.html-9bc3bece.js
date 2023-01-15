@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-525b2214","path":"/09/046.html","title":"46 通乳","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/046.md"}');export{t as data};

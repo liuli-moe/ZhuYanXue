@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1adf3c58","path":"/08/025.html","title":"第二十五章 梦碎","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/025.md"}');export{t as data};

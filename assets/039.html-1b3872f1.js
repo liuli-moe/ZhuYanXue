@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-229370b0","path":"/09/039.html","title":"39 母辱","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/039.md"}');export{t as data};

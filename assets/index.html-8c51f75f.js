@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as _,R as e}from"./framework-96b046e1.js";const o={},s=e("p",null,"怪兽拚命地追着，女人慌乱地逃着……",-1),c=e("p",null,"不知在什么样的空间里，四周冰冰冷冷、黑黑暗暗、寂寂静静，一望无际。",-1),l=e("p",null,"……",-1),d=e("p",null,"朱颜血第四颗红泪，于焉坠落！",-1),i=[s,c,l,d];function r(a,p){return n(),_("div",null,i)}const h=t(o,[["render",r],["__file","index.html.vue"]]);export{h as default};

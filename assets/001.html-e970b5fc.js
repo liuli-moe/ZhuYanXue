@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-86fd598a","path":"/03/001.html","title":"第一章 连心除魔","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/001.md"}');export{t as data};

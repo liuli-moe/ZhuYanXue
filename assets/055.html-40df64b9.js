@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f4e6f694","path":"/09/055.html","title":"55 兽奸","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/055.md"}');export{t as data};

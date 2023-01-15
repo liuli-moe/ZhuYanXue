@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-77eed294","path":"/09/002.html","title":"02 入狱","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/002.md"}');export{t as data};

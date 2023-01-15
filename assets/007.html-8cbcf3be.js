@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-43a8f692","path":"/01/007.html","title":"第七幕","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"01/007.md"}');export{t as data};

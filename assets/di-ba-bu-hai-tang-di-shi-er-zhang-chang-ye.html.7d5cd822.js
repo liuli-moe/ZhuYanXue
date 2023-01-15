@@ -1,1 +1,0 @@
-const a={key:"v-577d1e71",path:"/08/di-ba-bu-hai-tang-di-shi-er-zhang-chang-ye.html",title:"\u7B2C\u5341\u4E8C\u7AE0 \u957F\u591C",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"08/di-ba-bu-hai-tang-di-shi-er-zhang-chang-ye.md"};export{a as data};

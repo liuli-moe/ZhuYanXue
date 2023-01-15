@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-391fbc96","path":"/09/023.html","title":"23 失贞","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/023.md"}');export{t as data};

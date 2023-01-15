@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-e7a4c6e0","path":"/08/007.html","title":"第七章 斗兽","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/007.md"}');export{t as data};

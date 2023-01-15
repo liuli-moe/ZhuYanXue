@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-21b29ed4","path":"/08/023.html","title":"第二十三章 城寨","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/023.md"}');export{t as data};

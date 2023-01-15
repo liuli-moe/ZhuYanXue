@@ -1,1 +1,0 @@
-const i={key:"v-24691a92",path:"/03/di-san-bu-fu-rong-di-ba-zhang-wu-qing-gui-yi.html",title:"\u7B2C\u516B\u7AE0 \u65E0\u60C5\u9B3C\u533B",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"03/di-san-bu-fu-rong-di-ba-zhang-wu-qing-gui-yi.md"};export{i as data};

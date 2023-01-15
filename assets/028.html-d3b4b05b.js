@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0f1c0973","path":"/06/028.html","title":"THE CODA…","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"06/028.md"}');export{t as data};

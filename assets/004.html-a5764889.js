@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f1e1da9a","path":"/08/004.html","title":"第四章 往事","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/004.md"}');export{t as data};

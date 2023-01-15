@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-19c731ca","path":"/03/012.html","title":"第十二章 真相大白","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/012.md"}');export{t as data};

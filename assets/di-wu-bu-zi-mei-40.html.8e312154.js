@@ -1,1 +1,0 @@
-const i={key:"v-a0dfd476",path:"/05/di-wu-bu-zi-mei-40.html",title:"40",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"05/di-wu-bu-zi-mei-40.md"};export{i as data};

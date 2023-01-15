@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-280f4660","path":"/09/028.html","title":"28 裸审","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/028.md"}');export{t as data};

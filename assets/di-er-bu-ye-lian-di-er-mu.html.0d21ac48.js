@@ -1,1 +1,0 @@
-const e={key:"v-1880f349",path:"/02/di-er-bu-ye-lian-di-er-mu.html",title:"\u7B2C\u4E8C\u5E55",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645877713e3,contributors:[{name:"rxliuli",email:"rxliuli@gmail.com",commits:2}]},filePathRelative:"02/di-er-bu-ye-lian-di-er-mu.md"};export{e as data};

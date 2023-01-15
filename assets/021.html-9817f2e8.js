@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3ff31f12","path":"/09/021.html","title":"21 献肛","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/021.md"}');export{t as data};

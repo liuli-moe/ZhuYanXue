@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-e740319c","path":"/09/059.html","title":"59 为娼","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/059.md"}');export{t as data};

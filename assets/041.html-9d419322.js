@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-49d2e6f9","path":"/09/041.html","title":"41 破肛","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/041.md"}');export{t as data};

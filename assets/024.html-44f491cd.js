@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-35b60b58","path":"/09/024.html","title":"24 轮暴","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/024.md"}');export{t as data};

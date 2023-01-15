@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1d30e308","path":"/03/011.html","title":"第十一章 痛失爱儿","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/011.md"}');export{t as data};

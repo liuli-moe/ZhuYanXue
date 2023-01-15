@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1337d319","path":"/09/030.html","title":"30 抚慰","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/030.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-88156418","path":"/08/014.html","title":"第十四章 沦落","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/014.md"}');export{t as data};
