@@ -1,15 +1,17 @@
 {
   "name": "zhuyanxue",
   "private": true,
+  "type": "module",
   "version": "1.0.0",
   "repository": "git@github.com:liuli-moe/ZhuYanXue.git",
   "author": "rxliuli <rxliuli@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "esno build.ts",
+    "init": "tsx src/generate.ts",
+    "build": "tsx src/build.ts",
     "docs-dev": "vuepress dev docs",
     "docs-build": "vuepress build docs",
-    "docs-deploy": "pnpm docs-build && liuli-cli deploy"
+    "docs-deploy": "gh-pages -d ./docs/.vuepress/dist --dotfiles"
   },
   "deploy": {
     "type": "gh-pages",
@@ -17,15 +19,24 @@
     "dest": "/"
   },
   "devDependencies": {
-    "@liuli-util/async": "^3.3.0",
-    "@liuli-util/cli": "^3.19.0",
-    "@liuli-util/mdbook": "^0.2.3",
-    "@types/node": "^17.0.21",
-    "@vuepress/plugin-search": "^2.0.0-beta.35",
+    "@liuli-util/async": "^3.6.0",
+    "@liuli-util/fs-extra": "^0.1.0",
+    "@liuli-util/markdown-util": "^0.6.0",
+    "@liuli-util/mdbook": "^0.2.7",
+    "@types/lodash-es": "^4.17.6",
+    "@types/node": "^18.11.18",
+    "@vuepress/client": "2.0.0-beta.60",
+    "@vuepress/plugin-search": "^1.9.8",
+    "gh-pages": "^4.0.0",
     "jszip": "^3.10.1",
-    "vuepress-vite": "^2.0.0-beta.35"
+    "lodash-es": "^4.17.21",
+    "natural-orderby": "^3.0.1",
+    "parse-chinese-number": "^1.0.5",
+    "tsx": "^3.12.2",
+    "vue": "^3.2.45",
+    "vuepress": "2.0.0-beta.60"
   },
   "dependencies": {
-    "fast-glob": "^3.2.11"
+    "fast-glob": "^3.2.12"
   }
 }
