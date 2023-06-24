@@ -7,36 +7,16 @@
   "author": "rxliuli <rxliuli@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "init": "tsx src/generate.ts",
-    "build": "tsx src/build.ts",
-    "docs-dev": "vuepress dev docs",
-    "docs-build": "vuepress build docs",
-    "docs-deploy": "gh-pages -d ./docs/.vuepress/dist --dotfiles"
-  },
-  "deploy": {
-    "type": "gh-pages",
-    "dist": "docs/.vuepress/dist",
-    "dest": "/"
+    "build": "mark-magic && jszip-cli add dist/epub -o dist/books.zip -f",
+    "deploy": "gh-pages -d ./dist/docs --dotfiles"
   },
   "devDependencies": {
-    "@liuli-util/async": "^3.6.0",
-    "@liuli-util/fs-extra": "^0.1.0",
-    "@liuli-util/markdown-util": "^0.6.0",
-    "@liuli-util/mdbook": "^0.2.7",
-    "@types/lodash-es": "^4.17.6",
-    "@types/node": "^18.11.18",
-    "@vuepress/client": "2.0.0-beta.60",
-    "@vuepress/plugin-search": "^1.9.8",
+    "@ffflorian/jszip-cli": "^3.4.1",
+    "@mark-magic/cli": "link:~/code/web/mark-magic/packages/cli",
+    "@mark-magic/plugin-docs": "link:~/code/web/mark-magic/packages/plugin-docs",
+    "@mark-magic/plugin-epub": "link:~/code/web/mark-magic/packages/plugin-epub",
+    "@mark-magic/plugin-local": "link:~/code/web/mark-magic/packages/plugin-local",
     "gh-pages": "^4.0.0",
-    "jszip": "^3.10.1",
-    "lodash-es": "^4.17.21",
-    "natural-orderby": "^3.0.1",
-    "parse-chinese-number": "^1.0.5",
-    "tsx": "^3.12.2",
-    "vue": "^3.2.45",
-    "vuepress": "2.0.0-beta.60"
-  },
-  "dependencies": {
-    "fast-glob": "^3.2.12"
+    "jszip": "^3.10.1"
   }
 }

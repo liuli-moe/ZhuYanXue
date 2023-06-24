@@ -1,14 +1,4 @@
----
-title: 夜莲
-author: 浮萍居主
-language: zh-CN
-sections:
-  - 001.md
-  - 002.md
-  - 003.md
-  - 004.md
-  - 005.md
----
+# 夜莲
 
 夜莲不懂，为什么幸福美满的生活一夕变天。
 
