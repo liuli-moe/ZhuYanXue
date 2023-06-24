@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7dd8505e","path":"/08/017.html","title":"第十七章 妓寨","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/017.md"}');export{t as data};

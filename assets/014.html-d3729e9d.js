@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-12f3cf4e","path":"/03/014.html","title":"终章 魔霸天下","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/014.md"}');export{t as data};

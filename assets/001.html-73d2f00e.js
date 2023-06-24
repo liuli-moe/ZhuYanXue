@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-fc1eee54","path":"/08/001.html","title":"第一章 惊变","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/001.md"}');export{e as data};

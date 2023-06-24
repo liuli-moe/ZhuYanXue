@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-8393a84c","path":"/03/002.html","title":"第二章 春梦遐思","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/002.md"}');export{t as data};

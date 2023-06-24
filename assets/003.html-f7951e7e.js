@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-8029f70e","path":"/03/003.html","title":"第三章 蜀山辛密","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/003.md"}');export{t as data};

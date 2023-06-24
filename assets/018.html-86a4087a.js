@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7a6e9f20","path":"/08/018.html","title":"第十八章 复仇","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/018.md"}');export{t as data};

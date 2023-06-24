@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-79569492","path":"/03/005.html","title":"第五章 兽性大发","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/005.md"}');export{t as data};

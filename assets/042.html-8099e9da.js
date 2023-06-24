@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-4b87bf98","path":"/09/042.html","title":"42 绳虐","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"09/042.md"}');export{t as data};

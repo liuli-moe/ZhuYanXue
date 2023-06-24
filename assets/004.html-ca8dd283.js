@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7cc045d0","path":"/03/004.html","title":"第四章 异变突生","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/004.md"}');export{t as data};

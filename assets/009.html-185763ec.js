@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-e0d16464","path":"/08/009.html","title":"第九章 较量","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/009.md"}');export{t as data};

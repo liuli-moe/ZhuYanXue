@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-209a9446","path":"/03/010.html","title":"第十章 悔之晚矣","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/010.md"}');export{t as data};

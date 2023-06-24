@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6f1980d8","path":"/03/008.html","title":"第八章 无情鬼医","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/008.md"}');export{t as data};

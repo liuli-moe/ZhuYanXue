@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-ee78295c","path":"/08/005.html","title":"第五章 劫案","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/005.md"}');export{t as data};

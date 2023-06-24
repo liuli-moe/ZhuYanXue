@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-28860150","path":"/08/021.html","title":"第二十一章 刺青","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/021.md"}');export{t as data};

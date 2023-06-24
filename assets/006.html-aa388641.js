@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-eb0e781e","path":"/08/006.html","title":"第六章 覆灭","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/006.md"}');export{e as data};

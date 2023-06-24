@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-f8b53d16","path":"/08/002.html","title":"第二章 初见","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/002.md"}');export{t as data};

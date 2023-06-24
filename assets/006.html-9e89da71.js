@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-75ece354","path":"/03/006.html","title":"第六章 引火烧身","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"03/006.md"}');export{t as data};

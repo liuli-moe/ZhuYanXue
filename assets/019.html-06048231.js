@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7704ede2","path":"/08/019.html","title":"第十九章 战争","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"08/019.md"}');export{t as data};
