@@ -12,11 +12,11 @@
   },
   "devDependencies": {
     "@ffflorian/jszip-cli": "^3.4.1",
-    "@mark-magic/cli": "link:~/code/web/mark-magic/packages/cli",
-    "@mark-magic/plugin-docs": "link:~/code/web/mark-magic/packages/plugin-docs",
-    "@mark-magic/plugin-epub": "link:~/code/web/mark-magic/packages/plugin-epub",
-    "@mark-magic/plugin-local": "link:~/code/web/mark-magic/packages/plugin-local",
-    "gh-pages": "^4.0.0",
+    "@mark-magic/cli": "^0.1.2",
+    "@mark-magic/plugin-docs": "^0.1.2",
+    "@mark-magic/plugin-epub": "^0.1.2",
+    "@mark-magic/plugin-local": "^0.5.7",
+    "gh-pages": "^6.0.0",
     "jszip": "^3.10.1"
   }
 }

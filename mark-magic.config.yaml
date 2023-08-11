@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=./node_modules/@mark-magic/cli/src/config.schema.json
+# yaml-language-server: $schema=./node_modules/@mark-magic/cli/dist/config.schema.json
 
 generate:
   - name: 朱颜血-洁梅
@@ -171,9 +171,9 @@ generate:
           category: Announcements
           categoryId: DIC_kwDOC8Dgl84CXb9i
           mapping: pathname
-          reactions-enabled: '1'
-          emit-metadata: '0'
-          input-position: bottom
+          reactionsEnabled: '1'
+          emitMetadata: '0'
+          inputPosition: bottom
           theme: dark
           lang: zh-CN
           crossorigin: anonymous
