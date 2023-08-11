@@ -17,19 +17,26 @@
       window.$docsify = {
   "name": "朱颜血",
   "repo": "https://github.com/liuli-moe/ZhuYanXue.git",
-  "loadSidebar": true,
   "giscus": {
     "repo": "liuli-moe/ZhuYanXue",
     "repoId": "MDEwOlJlcG9zaXRvcnkxOTcxODk3ODM=",
     "category": "Announcements",
     "categoryId": "DIC_kwDOC8Dgl84CXb9i",
     "mapping": "pathname",
-    "reactions-enabled": "1",
-    "emit-metadata": "0",
-    "input-position": "bottom",
+    "reactionsEnabled": "1",
+    "emitMetadata": "0",
+    "inputPosition": "bottom",
     "theme": "dark",
     "lang": "zh-CN",
     "crossorigin": "anonymous"
+  },
+  "loadSidebar": true,
+  "auto2top": true,
+  "pagination": {
+    "previousText": "Previous",
+    "nextText": "Next",
+    "crossChapter": true,
+    "crossChapterText": true
   }
 }
       if (window.$docsify.giscus) {
@@ -47,6 +54,7 @@
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="./docsify-giscus.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="./giscus.js"></script>
   </body>
 </html>
