@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as i,R as l}from"./chunks/framework.S-lNut8w.js";const m=JSON.parse('{"title":"朱颜血","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"},o=l("",5),r=[o];function n(s,_,d,c,h,p){return e(),i("div",null,r)}const f=a(t,[["render",n]]);export{m as __pageData,f as default};

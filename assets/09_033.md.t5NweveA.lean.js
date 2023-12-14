@@ -1,0 +1,1 @@
+import{_ as p,o as e,c as t,R as a}from"./chunks/framework.S-lNut8w.js";const f=JSON.parse('{"title":"33 婚约","description":"","frontmatter":{},"headers":[],"relativePath":"09/033.md","filePath":"09/033.md"}'),_={name:"09/033.md"},o=a("",110),r=[o];function s(c,n,i,d,l,h){return e(),t("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};
