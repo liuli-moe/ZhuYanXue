@@ -1,0 +1,1 @@
+import{_ as p,o as e,c as t,R as a}from"./chunks/framework.S-lNut8w.js";const f=JSON.parse('{"title":"D…","description":"","frontmatter":{"title":"D…"},"headers":[],"relativePath":"06/005.md","filePath":"06/005.md"}'),_={name:"06/005.md"},o=a("",19),r=[o];function s(c,n,d,i,l,h){return e(),t("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};

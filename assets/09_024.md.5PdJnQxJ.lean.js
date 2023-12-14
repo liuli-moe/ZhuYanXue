@@ -1,1 +1,0 @@
-import{_ as p,o as t,c as e,R as a}from"./chunks/framework.S-lNut8w.js";const f=JSON.parse('{"title":"24 轮暴","description":"","frontmatter":{},"headers":[],"relativePath":"09/024.md","filePath":"09/024.md"}'),_={name:"09/024.md"},o=a("",76),r=[o];function s(c,n,i,d,l,h){return t(),e("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};

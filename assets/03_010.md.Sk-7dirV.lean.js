@@ -1,1 +1,0 @@
-import{_ as p,o as e,c as t,R as a}from"./chunks/framework.S-lNut8w.js";const f=JSON.parse('{"title":"第十章 悔之晚矣","description":"","frontmatter":{},"headers":[],"relativePath":"03/010.md","filePath":"03/010.md"}'),r={name:"03/010.md"},_=a("",73),o=[_];function n(s,c,i,d,l,h){return e(),t("div",null,o)}const u=p(r,[["render",n]]);export{f as __pageData,u as default};

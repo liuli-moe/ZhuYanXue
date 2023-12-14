@@ -1,1 +1,0 @@
-import{_ as p,o as t,c as e,R as a}from"./chunks/framework.S-lNut8w.js";const f=JSON.parse('{"title":"第一章 连心除魔","description":"","frontmatter":{},"headers":[],"relativePath":"03/001.md","filePath":"03/001.md"}'),_={name:"03/001.md"},o=a("",78),r=[o];function s(c,n,i,l,d,h){return t(),e("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};
