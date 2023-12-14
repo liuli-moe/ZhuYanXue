@@ -162,9 +162,10 @@ generate:
         path: dist/docs
         public: ./public/
         name: 朱颜血
-        repo: https://github.com/liuli-moe/ZhuYanXue.git
-        theme:
-          dark: true
+        lang: zh-CN
+        nav:
+          - text: GitHub
+            link: https://github.com/liuli-moe/ZhuYanXue
         giscus:
           repo: liuli-moe/ZhuYanXue
           repoId: MDEwOlJlcG9zaXRvcnkxOTcxODk3ODM=
