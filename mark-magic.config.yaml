@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./node_modules/@mark-magic/cli/dist/config.schema.json
 
-generate:
+tasks:
   - name: 朱颜血-洁梅
     input:
       name: '@mark-magic/plugin-local'
@@ -10,12 +10,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-洁梅.epub
-        metadata:
-          id: book-01
-          title: 洁梅
-          creator: 浮萍居主
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 洁梅
+        creator: 浮萍居主
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-夜莲
     input:
       name: '@mark-magic/plugin-local'
@@ -25,12 +24,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-夜莲.epub
-        metadata:
-          id: book-01
-          title: 夜莲
-          creator: 浮萍居主
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 夜莲
+        creator: 浮萍居主
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-芙蓉
     input:
       name: '@mark-magic/plugin-local'
@@ -40,12 +38,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-芙蓉.epub
-        metadata:
-          id: book-01
-          title: 芙蓉
-          creator: 抱残
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 芙蓉
+        creator: 抱残
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-红棉
     input:
       name: '@mark-magic/plugin-local'
@@ -55,12 +52,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-红棉.epub
-        metadata:
-          id: book-01
-          title: 红棉
-          creator: RKING
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 红棉
+        creator: RKING
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-紫玫
     input:
       name: '@mark-magic/plugin-local'
@@ -70,12 +66,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-紫玫.epub
-        metadata:
-          id: book-01
-          title: 紫玫
-          creator: 紫狂
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 紫玫
+        creator: 紫狂
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-苍兰
     input:
       name: '@mark-magic/plugin-local'
@@ -85,12 +80,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-苍兰.epub
-        metadata:
-          id: book-01
-          title: 苍兰
-          creator: 小悴
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 苍兰
+        creator: 小悴
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-雪芍
     input:
       name: '@mark-magic/plugin-local'
@@ -100,12 +94,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-雪芍.epub
-        metadata:
-          id: book-01
-          title: 雪芍
-          creator: 紫狂
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 雪芍
+        creator: 紫狂
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-海棠
     input:
       name: '@mark-magic/plugin-local'
@@ -115,12 +108,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-海棠.epub
-        metadata:
-          id: book-01
-          title: 海棠
-          creator: 寒江
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 海棠
+        creator: 寒江
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-丹杏
     input:
       name: '@mark-magic/plugin-local'
@@ -130,12 +122,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-丹杏.epub
-        metadata:
-          id: book-01
-          title: 丹杏
-          creator: 紫狂
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 丹杏
+        creator: 紫狂
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-百合
     input:
       name: '@mark-magic/plugin-local'
@@ -145,12 +136,11 @@ generate:
       name: '@mark-magic/plugin-epub'
       config:
         path: dist/epub/朱颜血-百合.epub
-        metadata:
-          id: book-01
-          title: 百合
-          creator: 白纸
-          publisher: rxliuli
-          language: zh-CN
+        id: book-01
+        title: 百合
+        creator: 白纸
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-网站
     input:
       name: '@mark-magic/plugin-local'
@@ -173,7 +163,6 @@ generate:
           categoryId: DIC_kwDOC8Dgl84CXb9i
           mapping: pathname
           reactionsEnabled: '1'
-          emitMetadata: '0'
           inputPosition: bottom
           theme: dark
           lang: zh-CN

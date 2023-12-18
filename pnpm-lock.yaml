@@ -9,8 +9,17 @@ devDependencies:
     specifier: ^3.5.6
     version: 3.5.6
   '@mark-magic/cli':
-    specifier: ^0.4.1
-    version: 0.4.1(@algolia/client-search@4.22.0)(search-insights@2.13.0)(vue@3.3.11)
+    specifier: ^0.9.2
+    version: 0.9.2
+  '@mark-magic/plugin-docs':
+    specifier: ^0.9.2
+    version: 0.9.2(@algolia/client-search@4.22.0)(search-insights@2.13.0)(vue@3.3.11)
+  '@mark-magic/plugin-epub':
+    specifier: ^0.9.2
+    version: 0.9.2
+  '@mark-magic/plugin-local':
+    specifier: ^0.9.2
+    version: 0.9.2
   gh-pages:
     specifier: ^6.1.0
     version: 6.1.0
@@ -737,57 +746,25 @@ packages:
     resolution: {integrity: sha512-ZrI0J9wftPCQNlwLKZQAkAg0FrQk0xXNDGHqv4d2VaTBC8Kye2L8ET4CEAZf5M7IWQiXIIl1kVCCOI0HfvVdow==}
     dev: true
 
-  /@mark-magic/cli@0.4.1(@algolia/client-search@4.22.0)(search-insights@2.13.0)(vue@3.3.11):
-    resolution: {integrity: sha512-30dKBV+iFLixFRRC+DfxQsK/bHWSVb+ss7yb7Ln1sf6BrfL0C5eULWcMEUnxJiMd386TASpxPvEaFI7fEp1n/Q==}
+  /@mark-magic/cli@0.9.2:
+    resolution: {integrity: sha512-KFShVomnCb1MqOBg4xq1AlsHrr44+o0s+vxbNeITuIcsnkpoQ+JR+PH+RsXKxpCs+Dn7KRvT6OnV/Rxg/8AoVA==}
     hasBin: true
     dependencies:
       '@liuli-util/async': 3.6.1
-      '@liuli-util/fs': 0.1.0
-      '@mark-magic/core': 0.2.0
-      '@mark-magic/plugin-docs': 0.4.1(@algolia/client-search@4.22.0)(search-insights@2.13.0)(vue@3.3.11)
-      '@mark-magic/plugin-epub': 0.3.1
-      '@mark-magic/plugin-local': 0.6.0
+      '@mark-magic/core': 0.9.2
       bundle-require: 4.0.2(esbuild@0.18.20)
       commander: 11.1.0
       esbuild: 0.18.20
+      fs-extra: 11.2.0
       lodash-es: 4.17.21
       pathe: 1.1.1
       pino: 8.17.1
+      pino-pretty: 10.3.0
       yaml: 2.3.4
-    transitivePeerDependencies:
-      - '@algolia/client-search'
-      - '@types/node'
-      - '@types/react'
-      - '@vue/composition-api'
-      - async-validator
-      - axios
-      - change-case
-      - drauu
-      - fuse.js
-      - idb-keyval
-      - jwt-decode
-      - less
-      - lightningcss
-      - markdown-it-mathjax3
-      - nprogress
-      - postcss
-      - qrcode
-      - react
-      - react-dom
-      - sass
-      - search-insights
-      - sortablejs
-      - stylus
-      - sugarss
-      - supports-color
-      - terser
-      - typescript
-      - universal-cookie
-      - vue
     dev: true
 
-  /@mark-magic/core@0.2.0:
-    resolution: {integrity: sha512-okm+dQRDxnHcD04IfQ3pOOoLy7UncBOSG27NBxMAaK3fIniLsIds48djrTpFKarP3MSzqmdVJSAdOSRCCjDBow==}
+  /@mark-magic/core@0.9.2:
+    resolution: {integrity: sha512-jPT1isLrKWa0eiP4B83ITdHUvnSkBIHmna/Vra6dXUJi39l+M+Np3Ukm3w+PVR9lfdNu7wQoTnAqCAA4u17cKA==}
     dependencies:
       '@liuli-util/async': 3.6.1
       eventemitter3: 5.0.1
@@ -795,25 +772,24 @@ packages:
       type-fest: 3.13.1
     dev: true
 
-  /@mark-magic/epub@0.2.0:
-    resolution: {integrity: sha512-+wVXzat7N4P8nMVN7aNW24cVHNV6p9R8cBVOIBpx+lJdSv0eHRqqDAsYnBODOJ0xeLl7QX1W5lWpjaHaU91XFQ==}
+  /@mark-magic/epub@0.2.1:
+    resolution: {integrity: sha512-Y+8rB/qHgb4UK62ImY8aJzQa/0JmDrvKHLDUr0d5WyUgM30zvuYjfiAQ+S9gumudV9vAn3pBdzIiYrLdYnHShw==}
     dependencies:
       '@liuli-util/tree': 3.8.1
-      '@mark-magic/utils': 0.3.0
       jszip: 3.10.1
       mime-types: 2.1.35
       mustache: 4.2.0
     dev: true
 
-  /@mark-magic/plugin-docs@0.4.1(@algolia/client-search@4.22.0)(search-insights@2.13.0)(vue@3.3.11):
-    resolution: {integrity: sha512-+tINoFiDg/R+MkLVCvnBiIF82/6U9Af5TzGS2UJwyrRwRazXq+h9MHFGRrlxwgIq26ZWH/Ypnbi2AWc9q4JTxw==}
+  /@mark-magic/plugin-docs@0.9.2(@algolia/client-search@4.22.0)(search-insights@2.13.0)(vue@3.3.11):
+    resolution: {integrity: sha512-bGb400ittp5IPQumnjzN3XFRsvDbH6PDKbG77/PpyuChgB3e9YlAbf6xc1wnbdqB8iddeU+p1FMAe/IfwEwtLQ==}
     dependencies:
       '@liuli-util/fs': 0.1.0
       '@liuli-util/markdown-util': 0.8.0
       '@liuli-util/tree': 3.8.1
-      '@mark-magic/core': 0.2.0
-      '@mark-magic/plugin-local': 0.6.0
-      '@mark-magic/utils': 0.3.0
+      '@mark-magic/core': 0.9.2
+      '@mark-magic/plugin-local': 0.9.2
+      '@mark-magic/utils': 0.9.2
       feed: 4.2.2
       fs-extra: 11.2.0
       lodash-es: 4.17.21
@@ -853,14 +829,14 @@ packages:
       - vue
     dev: true
 
-  /@mark-magic/plugin-epub@0.3.1:
-    resolution: {integrity: sha512-OkS29cMN/SozihsGEx5tK3ces/2zQq9dDwCzQ6dp/T4mhNzsxPc7K01w+alG6h4uWVU4hazt97TRzxNcXl9cKA==}
+  /@mark-magic/plugin-epub@0.9.2:
+    resolution: {integrity: sha512-+Tt1bDYajinEYK6rKFq3yFfIncs/MyzA3Yj0oXGr6etwAbQNM03Cs+7Y2zCGMcuNn3iCnxeVoV+vuwL25YwAnw==}
     dependencies:
       '@liuli-util/markdown-util': 0.8.0
       '@liuli-util/tree': 3.8.1
-      '@mark-magic/core': 0.2.0
-      '@mark-magic/epub': 0.2.0
-      '@mark-magic/utils': 0.3.0
+      '@mark-magic/core': 0.9.2
+      '@mark-magic/epub': 0.2.1
+      '@mark-magic/utils': 0.9.2
       fs-extra: 11.2.0
       lodash-es: 4.17.21
       pathe: 1.1.1
@@ -869,33 +845,30 @@ packages:
       - supports-color
     dev: true
 
-  /@mark-magic/plugin-local@0.6.0:
-    resolution: {integrity: sha512-4AuXiFW5KaPAcWCAI0Mip6tL8+T9jQVxWHDMLmR+TOPKq4BH1rLTmSxvhgXW3E3yzfhXg0692tHLDBC6CAryGA==}
+  /@mark-magic/plugin-local@0.9.2:
+    resolution: {integrity: sha512-LQ+dyoCXyHTso2gmsFr8MsbZ8Ns7cPyFnCEKB7SpSyF51jLgquad5aLCpDXU1xOthxnZPZ2dTDLejPIra7sg2w==}
     dependencies:
       '@liuli-util/async': 3.6.1
-      '@liuli-util/fs-extra': 0.1.0
       '@liuli-util/markdown-util': 0.8.0
-      '@mark-magic/core': 0.2.0
-      '@mark-magic/utils': 0.3.0
-      crypto-js: 4.2.0
+      '@mark-magic/core': 0.9.2
+      '@mark-magic/utils': 0.9.2
       fast-glob: 3.3.2
       filenamify: 5.1.1
+      fs-extra: 11.2.0
       lodash-es: 4.17.21
-      mdast-util-to-hast: 12.3.0
       node-html-parser: 6.1.11
       pathe: 1.1.1
-      uuid: 9.0.1
     transitivePeerDependencies:
       - supports-color
     dev: true
 
-  /@mark-magic/utils@0.3.0:
-    resolution: {integrity: sha512-66F827BBHFeWw2eDayxHAQ1rx5mSMTCT7+7fv2sjmBiOneKIB2LO+L0KtPCdQh5oxIWuNO8rt3axGMJHl9ujSA==}
+  /@mark-magic/utils@0.9.2:
+    resolution: {integrity: sha512-CderFoeIvMEpfvGhharGb4vtPRx3+B6WsidrhLKO+5zd+et9bdydojZDAqb65xrWh15u3OmkGJu1bKZiLo5c5w==}
     dependencies:
       '@liuli-util/fs': 0.1.0
       '@liuli-util/fs-extra': 0.1.0
       '@liuli-util/tree': 3.8.1
-      '@mark-magic/core': 0.2.0
+      '@mark-magic/core': 0.9.2
       jszip: 3.10.1
       pathe: 1.1.1
     dev: true
@@ -1474,6 +1447,10 @@ packages:
     resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==}
     dev: true
 
+  /colorette@2.0.20:
+    resolution: {integrity: sha512-IfEDxwoWIjkeXL1eXcDiow4UbKjhLdq6/EuSVR9GMN7KVH3r9gQ83e73hsz1Nd1T3ijd5xv1wcWRYO+D6kCI2w==}
+    dev: true
+
   /comma-separated-tokens@2.0.3:
     resolution: {integrity: sha512-Fu4hJdvzeylCfQPp9SGWidpzrMs7tTrlu6Vb8XGaRGck8QSNZJJp538Wrb60Lax4fPwR64ViY468OIUTbRlGZg==}
     dev: true
@@ -1519,10 +1496,6 @@ packages:
       which: 2.0.2
     dev: true
 
-  /crypto-js@4.2.0:
-    resolution: {integrity: sha512-KALDyEYgpY+Rlob/iriUtjV6d5Eq+Y191A5g4UqLAi8CyGP9N1+FdVbkc1SxKc2r4YAYqG8JzO2KGL+AizD70Q==}
-    dev: true
-
   /css-select@5.1.0:
     resolution: {integrity: sha512-nwoRF1rvRRnnCqqY7updORDsuqKzqYJ28+oSMaJMMgOauh3fvwHqMS7EZpIPqK8GL+g9mKxF1vP/ZjSeNjEVHg==}
     dependencies:
@@ -1544,6 +1517,10 @@ packages:
 
   /csstype@3.1.3:
     resolution: {integrity: sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==}
+    dev: true
+
+  /dateformat@4.6.3:
+    resolution: {integrity: sha512-2P0p0pFGzHS5EMnhdxQi7aJN+iMheud0UhG4dlE1DLAlvL8JHjJJTX/CSm4JXwV0Ka5nGk3zC5mcb5bUQUxxMA==}
     dev: true
 
   /debug@4.3.4:
@@ -1621,6 +1598,12 @@ packages:
 
   /emoji-regex@9.2.2:
     resolution: {integrity: sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==}
+    dev: true
+
+  /end-of-stream@1.4.4:
+    resolution: {integrity: sha512-+uw1inIHVPQoaVuHzRyXd21icM+cnt4CzD5rW+NC1wjOUSTOs+Te7FOv7AhN7vS9x/oIyhLP5PR1H+phQAHu5Q==}
+    dependencies:
+      once: 1.4.0
     dev: true
 
   /entities@4.5.0:
@@ -1722,6 +1705,10 @@ packages:
     engines: {node: '>=0.8.x'}
     dev: true
 
+  /fast-copy@3.0.1:
+    resolution: {integrity: sha512-Knr7NOtK3HWRYGtHoJrjkaWepqT8thIVGAwt0p0aUs1zqkAzXZV4vo9fFNwyb5fcqK1GKYFYxldQdIDVKhUAfA==}
+    dev: true
+
   /fast-glob@3.3.2:
     resolution: {integrity: sha512-oX2ruAFQwf/Orj8m737Y5adxDQO0LAB7/S5MnxCdTNDd4p6BsyIVsv9JQsATbTSq8KHRpLwIHbVlUNatxd+1Ow==}
     engines: {node: '>=8.6.0'}
@@ -1736,6 +1723,10 @@ packages:
   /fast-redact@3.3.0:
     resolution: {integrity: sha512-6T5V1QK1u4oF+ATxs1lWUmlEk6P2T9HqJG3e2DnHOdVgZy2rFJBoEnrIedcTXlkAHU/zKC+7KETJ+KGGKwxgMQ==}
     engines: {node: '>=6'}
+    dev: true
+
+  /fast-safe-stringify@2.1.1:
+    resolution: {integrity: sha512-W+KJc2dmILlPplD/H4K9l9LcAHAfPtP6BY84uVLXQ6Evcz9Lcg33Y2z1IVblT6xdY54PXYVHEv+0Wpq8Io6zkA==}
     dev: true
 
   /fastq@1.15.0:
@@ -2109,6 +2100,10 @@ packages:
     hasBin: true
     dev: true
 
+  /help-me@5.0.0:
+    resolution: {integrity: sha512-7xgomUX6ADmcYzFik0HzAxh/73YlKR9bmFzf51CZwR+b6YtzU2m0u49hQCqV6SvlqIqsaxovfwdvbnsw3b/zpg==}
+    dev: true
+
   /html-void-elements@2.0.1:
     resolution: {integrity: sha512-0quDb7s97CfemeJAnW9wC0hw78MtW7NU3hqtCD75g2vFlDLt36llsYD7uB7SUzojLMP24N5IatXf7ylGXiGG9A==}
     dev: true
@@ -2190,6 +2185,11 @@ packages:
       '@isaacs/cliui': 8.0.2
     optionalDependencies:
       '@pkgjs/parseargs': 0.11.0
+    dev: true
+
+  /joycon@3.1.1:
+    resolution: {integrity: sha512-34wB/Y7MW7bzjKRjUKTa46I2Z7eV62Rkhva+KkopW7Qvv/OSWBqvkSY7vusOPrNuZcUG3tApvdVgNB8POj3SPw==}
+    engines: {node: '>=10'}
     dev: true
 
   /js-tokens@4.0.0:
@@ -2791,6 +2791,10 @@ packages:
       brace-expansion: 2.0.1
     dev: true
 
+  /minimist@1.2.8:
+    resolution: {integrity: sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==}
+    dev: true
+
   /minipass@7.0.4:
     resolution: {integrity: sha512-jYofLM5Dam9279rdkWzqHozUo4ybjdZmCsDHePy5V/PbBcVMiSZR97gmAy45aqi8CK1lG2ECd356FU86avfwUQ==}
     engines: {node: '>=16 || 14 >=14.17'}
@@ -2969,6 +2973,26 @@ packages:
       split2: 4.2.0
     dev: true
 
+  /pino-pretty@10.3.0:
+    resolution: {integrity: sha512-JthvQW289q3454mhM3/38wFYGWPiBMR28T3CpDNABzoTQOje9UKS7XCJQSnjWF9LQGQkGd8D7h0oq+qwiM3jFA==}
+    hasBin: true
+    dependencies:
+      colorette: 2.0.20
+      dateformat: 4.6.3
+      fast-copy: 3.0.1
+      fast-safe-stringify: 2.1.1
+      help-me: 5.0.0
+      joycon: 3.1.1
+      minimist: 1.2.8
+      on-exit-leak-free: 2.1.2
+      pino-abstract-transport: 1.1.0
+      pump: 3.0.0
+      readable-stream: 4.4.2
+      secure-json-parse: 2.7.0
+      sonic-boom: 3.7.0
+      strip-json-comments: 3.1.1
+    dev: true
+
   /pino-std-serializers@6.2.2:
     resolution: {integrity: sha512-cHjPPsE+vhj/tnhCy/wiMh3M3z3h/j15zHQX+S9GkTBgqJuTuJzYJ4gUyACLhDaJ7kk9ba9iRDmbH2tJU03OiA==}
     dev: true
@@ -3030,6 +3054,13 @@ packages:
 
   /property-information@6.4.0:
     resolution: {integrity: sha512-9t5qARVofg2xQqKtytzt+lZ4d1Qvj8t5B8fEwXK6qOfgRLgH/b13QlgEyDh033NOS31nXeFbYv7CLUDG1CeifQ==}
+    dev: true
+
+  /pump@3.0.0:
+    resolution: {integrity: sha512-LwZy+p3SFs1Pytd/jYct4wpv49HiYCqd9Rlc5ZVdk0V+8Yzv6jR5Blk3TRmPL1ft69TxP0IMZGJ+WPFU2BFhww==}
+    dependencies:
+      end-of-stream: 1.4.4
+      once: 1.4.0
     dev: true
 
   /queue-microtask@1.2.3:
@@ -3131,6 +3162,10 @@ packages:
 
   /search-insights@2.13.0:
     resolution: {integrity: sha512-Orrsjf9trHHxFRuo9/rzm0KIWmgzE8RMlZMzuhZOJ01Rnz3D0YBAe+V6473t6/H6c7irs6Lt48brULAiRWb3Vw==}
+    dev: true
+
+  /secure-json-parse@2.7.0:
+    resolution: {integrity: sha512-6aU+Rwsezw7VR8/nyvKTx8QpWH9FrcYiXXlqC4z5d5XQBDRqtbfsRjnwGyqbi3gddNtWHuEk9OANUotL26qKUw==}
     dev: true
 
   /semver@6.3.1:
@@ -3249,6 +3284,11 @@ packages:
     engines: {node: '>=12'}
     dependencies:
       ansi-regex: 6.0.1
+    dev: true
+
+  /strip-json-comments@3.1.1:
+    resolution: {integrity: sha512-6fPc+R4ihwqP6N/aIv2f1gMH8lOVtWQHoqC4yK6oSDVVocumAsfCqjkXnqiYMhmMwS/mEHLp7Vehlt3ql6lEig==}
+    engines: {node: '>=8'}
     dev: true
 
   /strip-outer@1.0.1:
