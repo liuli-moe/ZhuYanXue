@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as i,R as l}from"./chunks/framework.S-lNut8w.js";const m=JSON.parse('{"title":"朱颜血","description":"","frontmatter":{"title":"朱颜血"},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),t={name:"index.md"},o=l("",5),r=[o];function n(s,_,d,c,h,p){return a(),i("div",null,r)}const f=e(t,[["render",n]]);export{m as __pageData,f as default};

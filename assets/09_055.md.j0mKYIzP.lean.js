@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,R as a}from"./chunks/framework.xNtpeFXt.js";const f=JSON.parse('{"title":"55 兽奸","description":"","frontmatter":{"title":"55 兽奸"},"headers":[],"relativePath":"09/055.md","filePath":"09/055.md"}'),_={name:"09/055.md"},o=a("",77),r=[o];function s(c,n,i,d,l,h){return t(),e("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as p,c as t,o as e,R as a}from"./chunks/framework.xNtpeFXt.js";const T=JSON.parse('{"title":"T…","description":"","frontmatter":{"title":"T…"},"headers":[],"relativePath":"06/021.md","filePath":"06/021.md"}'),_={name:"06/021.md"},o=a("",116),r=[o];function s(c,n,i,d,l,h){return e(),t("div",null,r)}const f=p(_,[["render",s]]);export{T as __pageData,f as default};
