@@ -141,6 +141,20 @@ tasks:
         creator: 白纸
         publisher: rxliuli
         language: zh-CN
+  - name: 朱颜血-清菊
+    input:
+      name: '@mark-magic/plugin-local'
+      config:
+        path: ./books/11/
+    output:
+      name: '@mark-magic/plugin-epub'
+      config:
+        path: dist/epub/朱颜血-清菊.epub
+        id: book-01
+        title: 清菊
+        creator: 紫狂
+        publisher: rxliuli
+        language: zh-CN
   - name: 朱颜血-网站
     input:
       name: '@mark-magic/plugin-local'

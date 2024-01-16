@@ -11,12 +11,12 @@
     "deploy": "gh-pages -d ./dist/docs --dotfiles"
   },
   "devDependencies": {
-    "@ffflorian/jszip-cli": "^3.5.6",
-    "@mark-magic/cli": "^0.9.2",
-    "@mark-magic/plugin-docs": "^0.9.2",
-    "@mark-magic/plugin-epub": "^0.9.2",
-    "@mark-magic/plugin-local": "^0.9.2",
-    "gh-pages": "^6.1.0",
+    "@ffflorian/jszip-cli": "^3.6.2",
+    "@mark-magic/cli": "^0.10.0",
+    "@mark-magic/plugin-docs": "^0.10.0",
+    "@mark-magic/plugin-epub": "^0.10.0",
+    "@mark-magic/plugin-local": "^0.10.0",
+    "gh-pages": "^6.1.1",
     "jszip": "^3.10.1"
   }
 }
