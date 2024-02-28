@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as t,R as a}from"./chunks/framework.xNtpeFXt.js";const f=JSON.parse('{"title":"第三章 绑票","description":"","frontmatter":{"title":"第三章 绑票"},"headers":[],"relativePath":"08/003.md","filePath":"08/003.md"}'),_={name:"08/003.md"},o=a("",111),r=[o];function s(c,n,i,d,l,h){return t(),e("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};

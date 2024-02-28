@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,R as a}from"./chunks/framework.qfIINnxc.js";const f=JSON.parse('{"title":"第十一章","description":"","frontmatter":{"title":"第十一章"},"headers":[],"relativePath":"10/011.md","filePath":"10/011.md"}'),_={name:"10/011.md"},o=a("",156),r=[o];function s(c,n,i,d,l,h){return t(),e("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};

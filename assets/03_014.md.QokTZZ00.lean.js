@@ -1,1 +1,0 @@
-import{_ as p,c as e,o as t,R as a}from"./chunks/framework.xNtpeFXt.js";const f=JSON.parse('{"title":"终章 魔霸天下","description":"","frontmatter":{"title":"终章 魔霸天下"},"headers":[],"relativePath":"03/014.md","filePath":"03/014.md"}'),_={name:"03/014.md"},o=a("",71),r=[o];function s(c,n,i,d,l,h){return t(),e("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as p,c as e,o as t,R as a}from"./chunks/framework.qfIINnxc.js";const f=JSON.parse('{"title":"27 销职","description":"","frontmatter":{"title":"27 销职"},"headers":[],"relativePath":"09/027.md","filePath":"09/027.md"}'),_={name:"09/027.md"},o=a("",117),r=[o];function s(c,n,i,d,l,h){return t(),e("div",null,r)}const u=p(_,[["render",s]]);export{f as __pageData,u as default};
