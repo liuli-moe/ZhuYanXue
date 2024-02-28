@@ -170,6 +170,7 @@ tasks:
         nav:
           - text: GitHub
             link: https://github.com/liuli-moe/ZhuYanXue
+        gtag: G-2VP1GV9HRY
         giscus:
           repo: liuli-moe/ZhuYanXue
           repoId: MDEwOlJlcG9zaXRvcnkxOTcxODk3ODM=
